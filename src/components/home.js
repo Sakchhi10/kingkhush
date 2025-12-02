@@ -14,6 +14,7 @@ const Home = () => {
             </h2>
           </div>
         </a>
+        
 
         <ul className="nav-links">
           <li><a href="#home">Home</a></li>
